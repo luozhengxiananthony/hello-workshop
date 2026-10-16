@@ -1,2 +1,2 @@
 # hello-workshop
-Hi my name is Anthony, currently a sophomore planning to major in econ and stats. 
+Hi my name is Anthony, a sophomore majoring in in econ and stats. 
